@@ -134,3 +134,7 @@ pre .xml .css,
 pre .xml .cdata {
   opacity: 0.5;
 }
+
+h1{
+  color:red;
+}
